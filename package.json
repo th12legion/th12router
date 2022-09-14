@@ -1,6 +1,6 @@
 {
     "name": "th12router",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "React Router",
     "main": "build/index.js",
     "scripts": {

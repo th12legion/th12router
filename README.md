@@ -7,7 +7,7 @@ You can use this router for both React web applications and React Native.
 # Getting Started
 ## Simple example (React Web).
 ```javascript
-    import { Router, Link, useParams, usePath } from "th12router-web";
+    import { Router, Link, useParams, usePath } from "th12router";
 
     // Main component
     function Home(){
@@ -144,7 +144,7 @@ If you want to load lazy components. You need to use the React.Suspense componen
 
 ```javascript
     import React from "react";
-    import { Router, Link, useParams, usePath } from "th12router-web";
+    import { Router, Link, useParams, usePath } from "th12router";
     import { useStorage } from "th12storage";
 
     // Page Not Found component
@@ -204,7 +204,7 @@ If you want to load lazy components. You need to use the React.Suspense componen
 ```javascript
     import React from "react";
     import { StyleSheet, Text, View, SafeAreaView, StatusBar } from 'react-native';
-    import { Router, Link, useParams, usePath } from "th12router-web";
+    import { Router, Link, useParams, usePath } from "th12router";
     import { useStorage } from "th12storage";
 
     // Page Not Found component

@@ -2,6 +2,8 @@
 
 You can use this router for both React web applications and React Native.
 
+> Warning: If your npm version not supported peerDependencies. You should  install th12storage. "npm install th12storage".
+
 # Getting Started
 ## Simple example (React Web).
 ```javascript

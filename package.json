@@ -13,7 +13,7 @@
         "url": "git+https://github.com/th12legion/th12router.git"
     },
     "author": "th12legion",
-    "license": "ISC",
+    "license": "MIT",
     "keywords": [
         "react",
         "router",
